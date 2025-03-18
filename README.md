@@ -1,4 +1,6 @@
 # Auth0 with Custom Notion Provider
+![image](https://github.com/user-attachments/assets/9ba1c1cf-f474-4c30-b0b7-d3ed6c071310)
+
 
 A React application that demonstrates integration between Auth0 authentication and Notion as a custom identity provider.
 
